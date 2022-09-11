@@ -2,7 +2,7 @@
 
 # Built With
 - JavaScript
--
+- Inquirer.js
 -
 # Deployed Link
 - https://ShaniyaMann.github.io/Node-Time-Baby/
